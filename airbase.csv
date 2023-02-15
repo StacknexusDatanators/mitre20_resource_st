@@ -1,0 +1,8 @@
+__metadata,airbase,latitude,longitude,country,code,fuel_capacity_gallons,fleets_type,airbase_type,target_key,dist_to_target_miles,rank,decision
+[object Object],Incirlik,40.106972,32.520821,Turkey,UAB,920711,C-12C,Base Operations Support,Aviano  - North Korea,4555,5,option 5
+[object Object],Aviano ,46.070461,12.58675,Italy,AVB,762463,"F-16, F-15",31st Fighter Wing,Aviano  - Iran,2050,3,option 3
+[object Object],Misawa,40.680031,141.365311,Japan,Japan,627207,"F-16, F-15",35th Fighter Wing,Aviano  - Syria,1373,1,option 1
+[object Object],Osan,37.149811,127.077225,South Korea,OSN,871413,"A-10, F-16",51st Fighter Wing,Aviano  - Iraq,1616,2,option 2
+[object Object],Spangdahlem,49.985889,6.68025,Germany,SPM,627207,"F-16, F-15E",52nd Fighter Wing,Aviano  - Afghanistan,2499,4,option 4
+[object Object],RAF Lakenheath,52.385948,0.52984,United Kingdom,LKZ,994728,"F-15C, F-15E",48th Fighter Wing,Misawa - North Korea,632,1,option 1
+[object Object],Kunsan,35.97861,126.71139,South Korea,KUV,813861,F-16,8th Fighter Wing,Misawa - Iran,4077,3,option 3
